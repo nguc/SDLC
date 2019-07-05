@@ -65,7 +65,12 @@ An abbreviated process is necessary to ensure that the fix does not introduce ot
     
 ## SDLC Models
 **Agile**
+
+
+
 ![Image of Agile method](https://github.com/nguc/SDLC/blob/master/Images/agile.png)
+
+
 
 This is the model that we follow here
 - more flexible
@@ -93,7 +98,12 @@ This is the model that we follow here
 
 
 **Waterfall**
+
+
+
 ![Image of Waterfall model](https://github.com/nguc/SDLC/blob/master/Images/waterfall.png)
+
+
 
 We dont do this here
 
