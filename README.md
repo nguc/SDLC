@@ -1,12 +1,12 @@
 # Software Development lifecycle
 
-**SDLC Purpose**   
+## Purpose  
 
 - Devs know what they are trying to make
 - Managers can track progress
 - track if product meets requirements
 
-**Benefits** 
+## Benefits 
 
 - A common vocabulary for each step
 - Defined communication channels between development teams and stakeholders
@@ -14,8 +14,8 @@
 - Clearly-defined inputs and outputs from one step to the next
 - A deterministic “definition of done” that can be used to confirm whether a step is truly complete
 
- **Process** 
-
+ ## Process 
+ 
 1. **Planning**
     - Resource allocation (both human and materials)
     - Capacity planning
@@ -68,7 +68,6 @@
 
 
 An abbreviated process is necessary to ensure that the fix does not introduce other problems (known as a regression.)
-    - Regression testing (rarely non-regression testing[1]) is re-running functional and non-functional tests to ensure that
-        previously developed and tested software still performs after a change.[2] If not, that would be called a regression
+    - Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression.
 
 
