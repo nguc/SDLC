@@ -65,7 +65,7 @@ An abbreviated process is necessary to ensure that the fix does not introduce ot
     
 ## SDLC Models
 **Agile**
-![Image of Agile method](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwil0uaiw57jAhVojVQKHQx3Bo8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.kisspng.com%2Fpng-web-development-systems-development-life-cycle-sof-5939195%2F&psig=AOvVaw27SdTA0lOSOWf92J3_FW_E&ust=1562441756148804)
+![Image of Agile method](https://github.com/nguc/SDLC/tree/master/Images/agile.png)
 
 This is the model that we follow here
 - more flexible
@@ -93,7 +93,7 @@ This is the model that we follow here
 
 
 **Waterfall**
-![Image of Waterfall model](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/1200px-Waterfall_model.svg.png)
+![Image of Waterfall model](https://github.com/nguc/SDLC/tree/master/Images/waterfall.png)
 
 We dont do this here
 
