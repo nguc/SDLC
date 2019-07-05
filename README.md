@@ -1,4 +1,4 @@
-# Software Development lifecycle
+# Software Development Lifecycle
 
 A blurb here about what it is
 
@@ -25,11 +25,7 @@ A blurb here about what it is
     - Cost estimation
     - Provisioning
 
-    ***Output***
-    - project plans
-    - schedules
-    - cost estimations
-    - procurement requirements 
+    Output: Project plans, schedules, cost estimations, procurement requirements 
     
 2. **Design and Prototype**
     - Design patterns
@@ -42,8 +38,7 @@ A blurb here about what it is
     - Bug fixes
     - engage with stakeholders, ensure expectations being met
 
-    Output 
-    - testable, functional software
+     Output: Testable, functional software
     
 4. **Testing**
     - code quality
@@ -53,28 +48,25 @@ A blurb here about what it is
     - QA testing
     - Can use continuous integration tools to ensure tests are run regularly and never skipped.
 
-    Output
-    - functional software, ready to deploy to production environment
+     Output: Functional software, ready to deploy to production environment
 
 5. **Deployment**
     - idealiy highly automated
     - Application Release Automation (ARA) systems are usually integrated with Continuous Integration tools. 
     
-    Output
-    - release to Production of working software.
+     Output: Release to Production of working software.
 
 6. **Operations and maintenance**
      - constant monitoring to ensure proper operation
      - error reporting send bugs back
      - improvment requests 
 
-
-An abbreviated process is necessary to ensure that the fix does not introduce other problems (known as a regression.)
-    - Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression.
+An abbreviated process is necessary to ensure that the fix does not introduce other problems (known as a regression). Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression.
     
 ## SDLC Models
 **Agile**
-(picture here)
+![Image of Agile method](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwil0uaiw57jAhVojVQKHQx3Bo8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.kisspng.com%2Fpng-web-development-systems-development-life-cycle-sof-5939195%2F&psig=AOvVaw27SdTA0lOSOWf92J3_FW_E&ust=1562441756148804)
+
 This is the model that we follow here
 - more flexible
 - emphasizes teamwork, prototyping, and feedback loops that can change the direction of the development effort in response to changing requirements
@@ -87,10 +79,10 @@ This is the model that we follow here
 ***Kanban***
 - Visualize what you do today (workflow)
 - Limit the amount of work in progress (WIP)
-- ENhance flow
+- Enhance flow
 - Continuous delivery
 
-| **Scrum | Kanban**
+| Scrum | Kanban |
 |---------|-------------------------------------------------------------------------|
 | No prescribed roles | Pre-defined roles: Scrum master, Product owner, team member |
 | Continuous Delivery | Timeboxed sprints |
@@ -101,7 +93,8 @@ This is the model that we follow here
 
 
 **Waterfall**
-(picture here)
+![Image of Waterfall model](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/1200px-Waterfall_model.svg.png)
+
 We dont do this here
 
 ## SDLC Practices
