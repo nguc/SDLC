@@ -1,15 +1,13 @@
 # Software Development lifecycle
 
-----------------------
 |    SDLC Purpose    |
-----------------------
+
 - Devs know what they are trying to make
 - Managers can track progress
 - track if product meets requirements
 
-----------------------
 |      Benefits      |
-----------------------
+
 
 - A common vocabulary for each step
 - Defined communication channels between development teams and stakeholders
@@ -17,11 +15,11 @@
 - Clearly-defined inputs and outputs from one step to the next
 - A deterministic “definition of done” that can be used to confirm whether a step is truly complete
 
-ValNav team
-----------------------
-|       Process      |
-----------------------
 
+|       Process      |
+
+VALNAV TEAM
+-------------
 1. **Planning**
     - Resource allocation (both human and materials)
     - Capacity planning
